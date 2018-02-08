@@ -1,3 +1,3 @@
 # YL
-test \n
+test
 test2
